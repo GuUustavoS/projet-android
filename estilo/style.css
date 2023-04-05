@@ -134,9 +134,9 @@ main h2{
 h2{
     font-family: var(--fonte-android);
 }
-iframe{
-    margin:auto;
-}
+
+    
+
 footer{
     background-color: #b8e0ca;
     color: white;
@@ -175,15 +175,15 @@ aside > ul{
 }
 div.video{
     background-color: #276115;
-    padding-bottom: 59%;
-    margin: 10px 20px 10px 20px;
-    padding: 200px;
-    position: relative;
+    padding: 20px;
+    padding-bottom: 58%;
+    margin: 0px -20px 30px -20px;
+    position:relative;
 }
 div.video>iframe{
     position: absolute;
     top: 5%;
     left: 5%;
-    width: 90%;
+    width: 50%;
     height: 90%;
 }
